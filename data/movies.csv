@@ -1,0 +1,8 @@
+name,year,length_min,genre,average_rating,cost_millions,foreign,age_restriction
+Toy Story,1995,81,Animation,8.3,30.0,False,0
+Akira,1998,125,Animation,8.1,10.4,False,14
+The Breakfast Club,1985,97,Drama,7.9,1.0,False,14
+The Artist,2011,100,Romance,8.0,15.0,False,12
+Modern Times,1936,87,Comedy,8.6,1.5,False,10
+Fight Club,1999,139,Drama,8.9,63.0,False,18
+City of God,2002,130,Crime,8.7,3.3,True,18
