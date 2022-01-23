@@ -7,7 +7,7 @@ WORKDIR src/
 COPY . .
 RUN pip3 install -r requirements.txt
 RUN pip3 install jupyter
-RUN python3 module.py
+# RUN python3 module.py
 RUN rm /src/data/data.csv
 WORKDIR /src/notebooks
 
